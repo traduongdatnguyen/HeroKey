@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="SearchThemeColor">
+        <item name="android:textColorHint">#B8B8B8</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+<style name="textFont">
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:fontFamily">@font/roboto</item>
+    <item name="android:textSize">12sp</item>
+</style>
+</resources>

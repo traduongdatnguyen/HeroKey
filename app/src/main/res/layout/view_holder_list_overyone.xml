@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="3"
+    android:background="@color/bg_all_pages"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:src="@drawable/user_1"
+            android:id="@+id/rounded_user_image"
+            android:scaleType="fitXY"/>
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatTextView
+                    style="@style/textFont"
+                    android:layout_width="match_parent"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:textSize="14sp"
+                    android:text="Maciej Kowalski"
+                    android:textColor="@color/white"
+                    android:layout_height="match_parent"/>
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="match_parent"
+                    android:maxLines="1"
+                    style="@style/textFont"
+                    android:ellipsize="end"
+                    android:text="maciej.kowalski@email.com"
+                    android:textColor="@color/white"
+                    android:layout_height="match_parent"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            style="@style/textFont"
+            android:layout_width="0dp"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:text="08:00"
+            android:layout_height="wrap_content"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

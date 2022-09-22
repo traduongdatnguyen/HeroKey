@@ -5,12 +5,13 @@
       <map>
         <entry key="..\:/IJ/HeroKey/app/src/main/res/drawable/bg_color_roundrd.xml" value="0.3235" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/drawable/bg_roudrd_search.xml" value="0.3235" />
+        <entry key="..\:/IJ/HeroKey/app/src/main/res/drawable/shadow_min.xml" value="0.349" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/font/roboto.xml" value="0.39739583333333334" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout-w1240dp/activity_register_account_page.xml" value="0.47959183673469385" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout-w936dp/activity_register_account_page.xml" value="0.275390625" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_connect_ip_address_page.xml" value="0.3671875" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_loading_start_page.xml" value="0.3671875" />
-        <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_page_chat_with_me.xml" value="0.3671875" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_private_chat_page.xml" value="0.3671875" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/activity_public_room_chat_page.xml" value="0.3671875" />
@@ -19,6 +20,7 @@
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/testscrollview.xml" value="0.3333333333333333" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/toolbar.xml" value="0.353125" />
         <entry key="..\:/IJ/HeroKey/app/src/main/res/layout/view_holder_list_overyone.xml" value="0.3671875" />
+        <entry key="..\:/IJ/HeroKey/app/src/main/res/menu/menuchatroom.xml" value="0.3671875" />
       </map>
     </option>
   </component>

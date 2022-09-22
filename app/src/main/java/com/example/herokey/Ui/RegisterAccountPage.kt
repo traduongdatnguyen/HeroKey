@@ -2,6 +2,7 @@ package com.example.herokey.Ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.herokey.R
 
 class RegisterAccountPage : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
